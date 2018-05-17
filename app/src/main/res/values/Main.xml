@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_bg">#67000000</color>
+    <color name="bg">#000000</color>
+    <item name="item_click_support" type="id" />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+
+    <style name="mySpinnerItemStyle" parent="@android:style/Widget.Holo.DropDownItem.Spinner">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
